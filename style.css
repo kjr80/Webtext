@@ -66,13 +66,13 @@ body, html {
 }
 
 .button {
-    background-color: #2A5DB0;
+    background-color: #182F4E;
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 0px 0px;
     text-align: center;
     display: inline-block;
-    font-size: 16px;
+    font-size: 7%;
     cursor: pointer;
 }
 
